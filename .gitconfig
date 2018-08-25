@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[core]
+	autocrlf = false
+[user]
+	name = Elliott Chenoweth
+	email = echenoweth@symbotic.com
+[alias]
+	co = checkout
+	br = branch
+	com = commit
+	c = commit
+	st = status
+	l = log
+	ll = log --oneline --decorate
+	unstage = reset HEAD --
