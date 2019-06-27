@@ -11,6 +11,6 @@ alias ll='ls -la '
 alias json='python3 -m json.tool '
 
 function mcd() {
-    mkdir $1; cd $1;
+    mkdir -p $1; cd $1;
 }
 
