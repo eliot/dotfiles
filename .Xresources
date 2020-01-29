@@ -1,0 +1,4 @@
+URxvt.font:xft:Fira Code:size=10
+URxvt.scrollBar:false
+URxvt.font:black
+URxvt.foreground:white
