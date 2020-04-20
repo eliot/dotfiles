@@ -22,7 +22,7 @@ TODO
 
 class DailyFileInfo:
     '''Represents all the information needed to create a daily journal file'''
-    BASEPATH = r'C:\Users\elliott_chenoweth\Box\Elliott_Chenoweth\Markdown\Daily'
+    BASEPATH = r'C:\Users\elliott\Daily'
     STARTER_CONTENTS = '''# Todo
 {}
 
